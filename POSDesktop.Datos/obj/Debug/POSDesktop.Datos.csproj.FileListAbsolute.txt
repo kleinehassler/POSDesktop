@@ -1,0 +1,4 @@
+C:\Sistemas\POSDESKTOP\POSDesktop\POSDesktop.Datos\obj\Debug\POSDesktop.Datos.csproj.AssemblyReference.cache
+C:\Sistemas\POSDESKTOP\POSDesktop\POSDesktop.Datos\obj\Debug\POSDesktop.Datos.Test.resources
+C:\Sistemas\POSDESKTOP\POSDesktop\POSDesktop.Datos\obj\Debug\POSDesktop.Datos.csproj.GenerateResource.cache
+C:\Sistemas\POSDESKTOP\POSDesktop\POSDesktop.Datos\obj\Debug\POSDesktop.Datos.csproj.CoreCompileInputs.cache

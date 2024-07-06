@@ -1,0 +1,6 @@
+C:\Sistemas\POSDESKTOP\POSDesktop\POSDesktop.Presentacion\obj\Debug\POSDesktop.Presentacion.csproj.AssemblyReference.cache
+C:\Sistemas\POSDESKTOP\POSDesktop\POSDesktop.Presentacion\obj\Debug\POSDesktop.Presentacion.Properties.Resources.resources
+C:\Sistemas\POSDESKTOP\POSDesktop\POSDesktop.Presentacion\obj\Debug\POSDesktop.Presentacion.csproj.GenerateResource.cache
+C:\Sistemas\POSDESKTOP\POSDesktop\POSDesktop.Presentacion\obj\Debug\POSDesktop.Presentacion.csproj.CoreCompileInputs.cache
+C:\Sistemas\POSDESKTOP\POSDesktop\POSDesktop.Presentacion\obj\Debug\POSDesktop.Presentacion.MDIParent1.resources
+C:\Sistemas\POSDESKTOP\POSDesktop\POSDesktop.Presentacion\obj\Debug\POSDesktop.Datos.Test.resources

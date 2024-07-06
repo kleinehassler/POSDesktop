@@ -1,0 +1,14 @@
+C:\Sistemas\POSDESKTOP\POSDesktop\Transacciones_SegundoPlano\bin\Debug\net6.0\Transacciones_SegundoPlano.exe
+C:\Sistemas\POSDESKTOP\POSDesktop\Transacciones_SegundoPlano\bin\Debug\net6.0\Transacciones_SegundoPlano.deps.json
+C:\Sistemas\POSDESKTOP\POSDesktop\Transacciones_SegundoPlano\bin\Debug\net6.0\Transacciones_SegundoPlano.runtimeconfig.json
+C:\Sistemas\POSDESKTOP\POSDesktop\Transacciones_SegundoPlano\bin\Debug\net6.0\Transacciones_SegundoPlano.dll
+C:\Sistemas\POSDESKTOP\POSDesktop\Transacciones_SegundoPlano\bin\Debug\net6.0\Transacciones_SegundoPlano.pdb
+C:\Sistemas\POSDESKTOP\POSDesktop\Transacciones_SegundoPlano\obj\Debug\net6.0\Transacciones_SegundoPlano.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sistemas\POSDESKTOP\POSDesktop\Transacciones_SegundoPlano\obj\Debug\net6.0\Transacciones_SegundoPlano.AssemblyInfoInputs.cache
+C:\Sistemas\POSDESKTOP\POSDesktop\Transacciones_SegundoPlano\obj\Debug\net6.0\Transacciones_SegundoPlano.AssemblyInfo.cs
+C:\Sistemas\POSDESKTOP\POSDesktop\Transacciones_SegundoPlano\obj\Debug\net6.0\Transacciones_SegundoPlano.csproj.CoreCompileInputs.cache
+C:\Sistemas\POSDESKTOP\POSDesktop\Transacciones_SegundoPlano\obj\Debug\net6.0\Transacciones_SegundoPlano.dll
+C:\Sistemas\POSDESKTOP\POSDesktop\Transacciones_SegundoPlano\obj\Debug\net6.0\refint\Transacciones_SegundoPlano.dll
+C:\Sistemas\POSDESKTOP\POSDesktop\Transacciones_SegundoPlano\obj\Debug\net6.0\Transacciones_SegundoPlano.pdb
+C:\Sistemas\POSDESKTOP\POSDesktop\Transacciones_SegundoPlano\obj\Debug\net6.0\Transacciones_SegundoPlano.genruntimeconfig.cache
+C:\Sistemas\POSDESKTOP\POSDesktop\Transacciones_SegundoPlano\obj\Debug\net6.0\ref\Transacciones_SegundoPlano.dll
